@@ -3,11 +3,12 @@
   <tr>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukumaru&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&bg_color=right,141e30,243b55" />
+      
     </td>
   <tr>
   <tr>
     <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumaru&layout=compact&theme=algolia&bg_color=right,141e30,243b55&card_width=445" />
+      ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
     </td>
   </tr>
 </table>
