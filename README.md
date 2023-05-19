@@ -6,13 +6,10 @@
       
     </td>
   <tr>
-  <tr>
-    <td>
-      ![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-    </td>
-  </tr>
+
 </table>
 <!--
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 **Sukumaru/Sukumaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
