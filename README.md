@@ -1,15 +1,6 @@
 ### Hi there 👋
-<table>
-  <tr>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Sukumaru&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&bg_color=right,141e30,243b55" />
-      
-    </td>
-  <tr>
-
-</table>
-<!--
 ![](https://raw.githubusercontent.com/Sukumaru/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Sukumaru/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 **Sukumaru/Sukumaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
